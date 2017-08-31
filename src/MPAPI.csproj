@@ -72,7 +72,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="RL_ipv4, Version=1.2.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\RL_lpv4.1.0.0\lib\RL_ipv4.dll</HintPath>
+      <HintPath>..\packages\RL_lpv4.1.0.0\lib\RL_ipv4.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
